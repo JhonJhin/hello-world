@@ -1,6 +1,6 @@
 # Atividades Python 
 
-Atividades  e Projetos desenvolvidos ou em desenvolvimento usando Python. Usei o ambiente Jupyter Notebook para reproduzir os códigos. Se desejar visitar o mesmo, o link está a abaixo1
+Atividades  e Projetos desenvolvidos ou em desenvolvimento usando Python. Usei o ambiente Jupyter Notebook para reproduzir os códigos. Se desejar visitar o mesmo, o link está a abaixo!
 
     
 
