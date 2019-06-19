@@ -1,64 +1,48 @@
-#!/usr/bin/env python
-# coding: utf-8
+#                                                Teste de Objetos e Estrutura de Dados
 
-# # Teste de Objetos e Estrutura de Dados
 
-# ## Teste seu conhecimento.
-# 
 # ** Responda as seguintes questões **
 
-# # Escreva uma breve descrição de todos os seguintes tipos de objetos e estruturas de dados sobre os quais aprendemos:
 
-# Números: tipo float (3.4, 4.1, 3.456) tipo int (1,2,3,4,5). Escrevem-se sem aspas.
-# 
-# Strings: Cordas que o kernel visualiza elemento por elemeto, usa-se indexação. Escrevem-se com aspas ou com a função print('String') depende o que se quer apresentar e como.
-# 
-# Listas: Listas contem elementos de diversos tipos dentro da mesma. Como tuplas, strings, números, outras listas e dicionários. São criadas com [colchetes]. Podem se concatenar listas.
-# 
-# Tuplas: Tuplas são como as listas, só que criadas usando (parênteses) e são imutáveis.
-# 
-# Dicionários: Criados usando {chaves}, nele cada 'key' - corresponde a uma valor 'value' .  'key':'Keyvalue' . 
+# 1) Escreva uma breve descrição de todos os seguintes tipos de objetos e estruturas de dados sobre os quais aprendemos:
 
-# # Números
-# 
-# # Escreva uma equação que use multiplicação, divisão, expoente, adição e subtração igual a 100,25.
-# 
-# Dica: isso é apenas para testar sua memória dos comandos aritméticos básicos, trabalhar para trás a partir de 100.25
+ Números: tipo float (3.4, 4.1, 3.456) tipo int (1,2,3,4,5). Escrevem-se sem aspas.
 
-# In[3]:
+ Strings: Cordas que o kernel visualiza elemento por elemeto, usa-se indexação. Escrevem-se com aspas ou com a função print('String') depende o que se quer apresentar e como.
+ 
+ Listas: Listas contem elementos de diversos tipos dentro da mesma. Como tuplas, strings, números, outras listas e dicionários. São criadas com [colchetes]. Podem se concatenar listas.
+ 
+ Tuplas: Tuplas são como as listas, só que criadas usando (parênteses) e são imutáveis.
 
+ Dicionários: Criados usando {chaves}, nele cada 'key' - corresponde a uma valor 'value' .  'key':'Keyvalue' . 
 
-32.75 * (1 + 2) - 2 + 2 ** 2 / 1
+        #Números
+ 
+# 2) Escreva uma equação que use multiplicação, divisão, expoente, adição e subtração igual a 100,25.
+
+In[3]: 32.75 * (1 + 2) - 2 + 2 ** 2 / 1
+Out[3]: 100.25
 
 
-# # Responda estas 3 perguntas sem digitar o código. Em seguida, digite o código para verificar sua resposta.
+#3) Responda estas 3 perguntas sem digitar o código. Em seguida, digite o código para verificar sua resposta.
 # 
 #      Qual é o valor da expressão 4 * (6 + 5)
-#     
+#    
 #      Qual é o valor da expressão 4 * 6 + 5?
 #     
 #      Qual é o valor da expressão 4 + 6 * 5?
 
-# 1) 44
-# 2) 29
-# 3) 34
+ 1) 44
+ 2) 29
+ 3) 34
 
-# In[1]:
-
-
-4 * (6+5)
+# In[1]: 4 * (6+5)
 
 
-# In[2]:
+# In[2]: 4 * 6 + 5
 
 
-4 * 6 + 5
-
-
-# In[3]:
-
-
-4 + 6 * 5
+# In[3]: 4 + 6 * 5
 
 
 # Qual é o * tipo * do resultado da expressão 3 + 1.5 + 4?
